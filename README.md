@@ -1,10 +1,23 @@
 # Library-System
+* ### 開發工具
 
+    - 程式語言: JAVA
+    
+    - 資料庫: SQLite
+    
 * ### User Manual 使用手冊
 
+    - 執行jar檔方式說明
+    
+      Step 1: 將jar檔與database資料夾放在同個目錄下
+      
+      Step 2: 打開cmd，輸入以下指令即可啟動圖書館系統
+      
+                java -jar Library_System.jar
+        
     - 資料庫內沒有預設的使用者資料，請自行註冊。
 
-    - 資料庫內預設的管理員，帳號密碼皆為root。
+    - 資料庫內有預設的管理員，帳號密碼皆為root。
     
     - 資料庫已有預設一些圖書資料。
 
